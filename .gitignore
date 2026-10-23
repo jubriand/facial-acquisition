@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+models/
+*.ravi
+*.csv
+acquisitions/
+sync_log.csv
+*_sync.json
+*.png
